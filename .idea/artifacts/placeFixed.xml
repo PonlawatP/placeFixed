@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="placeFixed">
+    <output-path>$PROJECT_DIR$/../Plugins Release</output-path>
+    <root id="archive" name="placeFixed.jar">
+      <element id="module-output" name="placeFixed" />
+    </root>
+  </artifact>
+</component>
